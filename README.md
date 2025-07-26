@@ -39,6 +39,7 @@ This is a simple yet complete implementation of the classic Pong Game using Pyth
 ![Pong Game Screenshot](demo.png)
 
 # 🙏 Thank You
+I made this project as a part of a Udemy course. So special Thanks to Dr. Angela Yu for your assistance.
 Thanks for checking out this project!
 If you're learning Python and graphics programming, this game is a fun way to explore how game mechanics work.
 
